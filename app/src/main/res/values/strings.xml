@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="how_do_you_ratearb">كيف تقيم لنا؟</string>
+    <string name="how_do_you_rate">How do you rate us?</string>
+    <string name="dash">|</string>
+    <string name="good">Good</string>
+    <string name="arabgood">جيد</string>
+    <string name="bad">Bad</string>
+    <string name="arabBad">سيئة</string>
+    <string name="arabAverage">معدل</string>
+    <string name="average">Average</string>
+    <string name="submit">Submit|خضع</string>
+    <string name="Enter_Your_Comment">Enter Your Comment|أدخل تعليقك</string>
+    <string name="cancel">Cancel|إلغاء</string>
+    <string name="enter_your_company_name">Enter Company Name</string>
+    <string name="posting_feedback">Posting_feedback</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
